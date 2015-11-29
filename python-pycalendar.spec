@@ -11,7 +11,7 @@ Source0:	http://pypi.python.org/packages/source/p/pycalendar/%{module}-%{version
 URL:		http://pypi.python.org/pypi/pycalendar/2.0
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 #Requires:		python-libs
 Requires:		python-modules
 BuildArch:	noarch
